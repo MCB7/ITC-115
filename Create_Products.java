@@ -1,3 +1,11 @@
+/*
+Product.java
+Morgan Bligh
+3-8-2020
+This program will print out a product 
+using the information provided
+ */
+
 
 public class Create_Products {
 	public static void main(String[] args){
