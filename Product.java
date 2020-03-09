@@ -1,3 +1,12 @@
+/*
+Product.java
+Morgan Bligh
+3-8-2020
+This program will print out a product 
+using the information provided
+ */
+
+
 import java.text.NumberFormat;
 
 public class Product {
